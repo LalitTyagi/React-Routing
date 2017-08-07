@@ -1,7 +1,6 @@
 ```
-git clone https://github.com/reactjs/react-router-tutorial
-cd react-router-tutorial
-cd lessons/01-setting-up
+git clone https://github.com/reactjs/React-Routing
+cd React-Routing
 npm install
 npm start
 ```
